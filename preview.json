@@ -1,1 +1,1 @@
-{"Parameters":{"SEED":11}}
+{"Parameters":{"FBM_VECTOR_1":{"x":0.52,"y":0.13,"z":0.0},"FBM_MULTIPLIER":4.0,"FBM_VECTOR_2":{"x":0.17,"y":0.92,"z":0.0},"PALETTE":[{"red":34.0,"green":32.0,"blue":23.0,"alpha":255.0},{"red":62.0,"green":61.0,"blue":62.0,"alpha":255.0},{"red":141.0,"green":133.0,"blue":134.0,"alpha":255.0},{"red":224.0,"green":245.0,"blue":245.0,"alpha":255.0},{"red":150.0,"green":146.0,"blue":82.0,"alpha":255.0}],"SEED":11,"FBM_VECTOR_3":{"x":0.83,"y":0.28,"z":0.0},"WIDTH":1000,"HEIGHT":1000,"NOISE_SCALE":0.00125}}
